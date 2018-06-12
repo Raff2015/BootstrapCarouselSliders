@@ -13,3 +13,10 @@ HTML,CSS, Bootstrap and JavaScript
 ### Demo2 file-
 
 ![demo2](https://user-images.githubusercontent.com/13760714/41312137-52e98c12-6e54-11e8-8e47-d7fb8efd5278.gif)
+
+
+# Demo
+
+https://raff2015.github.io/BootstrapCarouselSliders/
+https://raff2015.github.io/BootstrapCarouselSliders/demo
+https://raff2015.github.io/BootstrapCarouselSliders/demo1
