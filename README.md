@@ -1,5 +1,8 @@
-# Bootstrap-Carousel-Image-Sliders-w-timer-captions-buttons-playpause-
+# Bootstrap Carousel Image Sliders with (Timer, Captions, Play-Pause buttons)
+
 HTML,CSS, Bootstrap and JavaScript
+
+# Examples
 
 ### Index file-
 ![index](https://user-images.githubusercontent.com/13760714/41312030-09529a58-6e54-11e8-9d77-2793257f1cb9.gif)
