@@ -21,4 +21,4 @@ https://raff2015.github.io/BootstrapCarouselSliders/
 
 https://raff2015.github.io/BootstrapCarouselSliders/demo
 
-https://raff2015.github.io/BootstrapCarouselSliders/demo1
+https://raff2015.github.io/BootstrapCarouselSliders/demo2
